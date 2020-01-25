@@ -19,4 +19,5 @@ Running script.
 
 ## Reference
 I referred to the following articles. Thank you!
+
 [How to be cool and make Visual Studio Code (VSCode) transparent - DEV Community 👩💻👨💻](https://dev.to/emmanuelnk/how-to-be-cool-and-make-vscode-transparent-56ib)
